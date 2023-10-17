@@ -44,6 +44,12 @@ body {
     transition: 1s ease;
 }
 
+@media (max-width: 1170px) {
+    .wrapper1 {
+        padding: 1rem 5rem;
+    }
+}
+
 @media (max-width: 1030px) {
     .wrapper1 {
         padding: 1rem 9rem;
